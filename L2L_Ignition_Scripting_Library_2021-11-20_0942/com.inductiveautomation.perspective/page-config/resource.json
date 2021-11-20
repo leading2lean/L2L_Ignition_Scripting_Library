@@ -1,0 +1,16 @@
+{
+  "scope": "G",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "config.json"
+  ],
+  "attributes": {
+    "lastModificationSignature": "1601773c7c89f7b8f6cc371cd090881904b5935fbd4d08517cd20b38d6d82849",
+    "lastModification": {
+      "actor": "tylerwhitaker",
+      "timestamp": "2021-11-20T16:37:51Z"
+    }
+  }
+}

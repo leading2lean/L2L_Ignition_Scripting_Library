@@ -1,0 +1,16 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "data.bin"
+  ],
+  "attributes": {
+    "lastModificationSignature": "8006a0510620d38042208adf5836df29788f685ffcef63bae2ec4fb6fd82c9f2",
+    "lastModification": {
+      "actor": "tylerwhitaker",
+      "timestamp": "2021-11-20T16:37:44Z"
+    }
+  }
+}

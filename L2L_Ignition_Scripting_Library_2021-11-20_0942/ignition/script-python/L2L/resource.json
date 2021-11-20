@@ -1,0 +1,16 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "code.py"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "tylerwhitaker",
+      "timestamp": "2021-11-20T16:42:44Z"
+    },
+    "lastModificationSignature": "2982db80e79d55bec0e4030d48c1f78b4d80b4ede771a719386e6ca01b0aeb33"
+  }
+}
